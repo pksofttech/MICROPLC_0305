@@ -1,0 +1,659 @@
+F:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csprojResolveAssemblyReference.cache
+E:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\MICROPLC.exe.config
+E:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\MICROPLC.exe
+E:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\MICROPLC.pdb
+E:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+E:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+E:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+E:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+E:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+E:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+E:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+E:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+E:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+E:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+E:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+E:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.Cache
+E:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.exe
+E:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.pdb
+F:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\MICROPLC.exe.config
+F:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\MICROPLC.exe
+F:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\MICROPLC.pdb
+F:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+F:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+F:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+F:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+F:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+F:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+F:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+F:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+F:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+F:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+F:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+F:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.SplashForm.resources
+F:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.Cache
+F:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.exe
+F:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.pdb
+E:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\ResolveAssemblyReference.cache
+E:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+D:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csprojResolveAssemblyReference.cache
+D:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\MICROPLC.exe.config
+D:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\MICROPLC.exe
+D:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\MICROPLC.pdb
+D:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+D:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+D:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+D:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+D:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+D:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+D:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+D:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+D:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+D:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+D:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+D:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+D:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.Cache
+D:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.exe
+D:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.pdb
+C:\Users\PksofttecH\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\MICROPLC.exe.config
+C:\Users\PksofttecH\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\MICROPLC.exe
+C:\Users\PksofttecH\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\MICROPLC.pdb
+C:\Users\PksofttecH\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+C:\Users\PksofttecH\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+C:\Users\PksofttecH\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+C:\Users\PksofttecH\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+C:\Users\PksofttecH\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+C:\Users\PksofttecH\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+C:\Users\PksofttecH\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+C:\Users\PksofttecH\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+C:\Users\PksofttecH\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+C:\Users\PksofttecH\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+C:\Users\PksofttecH\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+C:\Users\PksofttecH\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+C:\Users\PksofttecH\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.Cache
+C:\Users\PksofttecH\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.exe
+C:\Users\PksofttecH\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.pdb
+C:\Users\PksofttecH\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csprojResolveAssemblyReference.cache
+C:\Users\PksofttecH\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+D:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+C:\Users\Administrator\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+C:\Users\Administrator\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+C:\Users\Administrator\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+C:\Users\Administrator\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+C:\Users\Administrator\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+C:\Users\Administrator\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+C:\Users\Administrator\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+C:\Users\Administrator\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+C:\Users\Administrator\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+C:\Users\Administrator\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+C:\Users\Administrator\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+C:\Users\Administrator\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\MICROPLC.exe.config
+C:\Users\Administrator\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\MICROPLC.exe
+C:\Users\Administrator\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\MICROPLC.pdb
+C:\Users\Administrator\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.exe
+C:\Users\Administrator\Desktop\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.pdb
+K:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\MICROPLC.exe.config
+K:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\MICROPLC.exe
+K:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\MICROPLC.pdb
+K:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csprojResolveAssemblyReference.cache
+K:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+K:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+K:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+K:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+K:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+K:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+K:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+K:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+K:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+K:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+K:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+K:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+K:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+K:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.Cache
+K:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.exe
+K:\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.pdb
+D:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csprojResolveAssemblyReference.cache
+D:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+D:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+D:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+D:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+D:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+D:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+D:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+D:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+D:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+D:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+D:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+D:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+D:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+D:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.Cache
+F:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe.config
+F:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe
+F:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.pdb
+F:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csprojResolveAssemblyReference.cache
+F:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+F:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+F:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+F:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+F:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+F:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+F:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+F:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+F:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+F:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+F:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+F:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+F:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.Cache
+F:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.exe
+F:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.pdb
+F:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+D:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe.config
+D:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe
+D:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.pdb
+D:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.exe
+D:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.pdb
+D:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Variable.resources
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe.config
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.pdb
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csprojResolveAssemblyReference.cache
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Input_Analog.resources
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Comment.resources
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Reg.resources
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Variable.resources
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.setting_Theme.resources
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.Cache
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.exe
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.pdb
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe.config
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.pdb
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csprojResolveAssemblyReference.cache
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Input_Analog.resources
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Comment.resources
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Reg.resources
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Variable.resources
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.setting_Theme.resources
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.Cache
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.exe
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.pdb
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe.config
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.pdb
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Input_Analog.resources
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Comment.resources
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Reg.resources
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Variable.resources
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.setting_Theme.resources
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.exe
+C:\Users\Administrator\Desktop\Backup010216\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.pdb
+K:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Variable.resources
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe.config
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.pdb
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Input_Analog.resources
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Comment.resources
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Reg.resources
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Variable.resources
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Variable.resources
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.setting_Theme.resources
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.exe
+C:\Users\Administrator\Desktop\MICROPLC\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.pdb
+K:\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe.config
+K:\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe
+K:\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.pdb
+K:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csprojResolveAssemblyReference.cache
+K:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+K:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+K:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Input_Analog.resources
+K:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+K:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+K:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+K:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+K:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+K:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+K:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+K:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Comment.resources
+K:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+K:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+K:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Reg.resources
+K:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Variable.resources
+K:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Variable.resources
+K:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+K:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.setting_Theme.resources
+K:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+K:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.Cache
+K:\MICROPLC\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.exe
+K:\MICROPLC\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.pdb
+H:\Flash_Drive\ADUINO_LADDER\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Variable.resources
+H:\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe.config
+H:\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe
+H:\MICROPLC\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.pdb
+H:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csprojResolveAssemblyReference.cache
+H:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+H:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+H:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Input_Analog.resources
+H:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+H:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+H:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+H:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+H:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+H:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+H:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+H:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Comment.resources
+H:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+H:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+H:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Reg.resources
+H:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Variable.resources
+H:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Variable.resources
+H:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+H:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.setting_Theme.resources
+H:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+H:\MICROPLC\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.Cache
+H:\MICROPLC\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.exe
+H:\MICROPLC\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.pdb
+K:\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe.config
+K:\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe
+K:\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.pdb
+K:\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csprojResolveAssemblyReference.cache
+K:\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+K:\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+K:\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Input_Analog.resources
+K:\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+K:\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+K:\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+K:\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+K:\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+K:\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+K:\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+K:\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Comment.resources
+K:\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+K:\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+K:\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Reg.resources
+K:\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Variable.resources
+K:\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Variable.resources
+K:\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+K:\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.setting_Theme.resources
+K:\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+K:\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.Cache
+K:\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.exe
+K:\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.pdb
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csprojResolveAssemblyReference.cache
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.exe
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.pdb
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe.config
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.pdb
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Input_Analog.resources
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Comment.resources
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Reg.resources
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Variable.resources
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Variable.resources
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.setting_Theme.resources
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+C:\Users\PkSoftTech\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.Cache
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe.config
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.pdb
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Input_Analog.resources
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Comment.resources
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Reg.resources
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Variable.resources
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Variable.resources
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.setting_Theme.resources
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.Cache
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.exe
+C:\Users\Administrator\Google Drive\DDB\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.pdb
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe.config
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.pdb
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Arduino_MapIO.resources
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Input_Analog.resources
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Comment.resources
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Reg.resources
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Variable.resources
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Variable.resources
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Resource.en.resources
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Resource.th.resources
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.setting_Theme.resources
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.exe
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.pdb
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+C:\Users\Administrator\Desktop\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe.config
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.pdb
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Arduino_MapIO.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Input_Analog.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Comment.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Reg.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Variable.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Variable.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Resource.en.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Resource.th.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.setting_Theme.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.Cache
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.exe
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.pdb
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe.config
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.pdb
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csprojResolveAssemblyReference.cache
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Arduino_MapIO.resources
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Input_Analog.resources
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Comment.resources
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Reg.resources
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Variable.resources
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Variable.resources
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Resource.en.resources
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Resource.th.resources
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.setting_Theme.resources
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.Cache
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.exe
+C:\Users\pksofttech\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.pdb
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe.config
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.pdb
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Arduino_MapIO.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Input_Analog.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Comment.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Reg.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Variable.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Variable.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Resource.en.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Resource.th.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.setting_Theme.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.Cache
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.exe
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.pdb
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csprojAssemblyReference.cache
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.CoreCompileInputs.cache
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csprojAssemblyReference.cache
+C:\Users\pksof\Google Drive\PLC_Micro_Rev01\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe.config
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.pdb
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csprojAssemblyReference.cache
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Arduino_MapIO.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Input_Analog.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Comment.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Reg.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Variable.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Variable.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Resource.en.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Resource.th.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.setting_Theme.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.cache
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.exe
+C:\Users\Administrator\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.pdb
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Arduino_MapIO.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Input_Analog.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Comment.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Reg.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Variable.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Variable.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Resource.en.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Resource.th.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.setting_Theme.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.Cache
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe.config
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.pdb
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csprojAssemblyReference.cache
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.CoreCompileInputs.cache
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.exe
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.pdb
+C:\Users\pksof\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csprojResolveAssemblyReference.cache
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe.config
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.pdb
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Arduino_MapIO.resources
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Input_Analog.resources
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Comment.resources
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Reg.resources
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Variable.resources
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Variable.resources
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Resource.en.resources
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Resource.th.resources
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.setting_Theme.resources
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.cache
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.exe
+C:\Users\PK Softtech\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.pdb
+C:\Users\PK SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csprojAssemblyReference.cache
+C:\Users\PK SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.CoreCompileInputs.cache
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe.config
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.pdb
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Arduino_MapIO.resources
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Input_Analog.resources
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Comment.resources
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Reg.resources
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Variable.resources
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Variable.resources
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Resource.en.resources
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Resource.th.resources
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.setting_Theme.resources
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.cache
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.exe
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.pdb
+C:\Users\PK_SOFTTECH\Google Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csprojResolveAssemblyReference.cache
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe.config
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.exe
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\bin\Debug\LADUINOCONTROL.pdb
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csprojResolveAssemblyReference.cache
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.AboutForm.resources
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Arduino_MapIO.resources
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.arduino_unoMapIO.resources
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Input_Analog.resources
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Loader_Form.resources
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MainForm.resources
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.MapIOPorts.resources
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Option_Config.resources
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.PropertiesElement.resources
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.ProgressForm.resources
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties.Resources.resources
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Comment.resources
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Counter.resources
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_FCP.resources
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Reg.resources
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Shift_Variable.resources
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Variable.resources
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Properties_Timer.resources
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Resource.en.resources
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Resource.th.resources
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.setting_Theme.resources
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.Set_stratus_from.resources
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\MICROPLC.csproj.GenerateResource.Cache
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.exe
+D:\Google_Drive\PLC_Micro_Rev02_Edit\MICROPLC_0305\MICROPLC_1_1\obj\Debug\LADUINOCONTROL.pdb

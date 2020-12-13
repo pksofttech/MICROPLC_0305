@@ -1,0 +1,61 @@
+# LD FORMAT copy Form LDMICRO#
+HARDWARE
+Micro PLC deca
+IO LIST
+Xbutton at X03
+Yled at Y00
+Yreset at Y01
+END
+PROGRAM
+RUNG
+	CONTACTS Xbutton 1 0 0
+	CTC Cwhich 4
+END
+RUNG
+	CONTACTS Xbutton 1 0 0
+	OSF
+	TOF Tdblclk 500000
+	COIL Rdblclk 0 0 0 0
+END
+RUNG
+	CONTACTS Xbutton 1 0 0
+	CONTACTS Rdblclk 0 0 0
+	PARALLEL
+		MOVE Cwhich 3
+		COIL Yreset 0 0 0 0
+	END
+END
+RUNG
+	CONTACTS Rfast 0 0 0
+	TOF Tffast 100000
+	TON Tnfast 100000
+	COIL Rfast 1 0 0 0
+END
+RUNG
+	CONTACTS Rslow 0 0 0
+	TON Tnslow 100000
+	TOF Tfslow 1000000
+	COIL Rslow 1 0 0 0
+END
+RUNG
+	PARALLEL
+		SERIES
+			EQU Cwhich 0
+			CONTACTS Rfast 0 0 0
+		END
+		SERIES
+			EQU Cwhich 1
+			CONTACTS Rslow 0 0 0
+		END
+		SERIES
+			EQU Cwhich 2
+			CONTACTS Rslow 1 0 0
+		END
+		EQU Cwhich 3
+		SERIES
+			EQU Cwhich 4
+			OPEN OPEN
+		END
+	END
+	COIL Yled 0 0 0 0
+END

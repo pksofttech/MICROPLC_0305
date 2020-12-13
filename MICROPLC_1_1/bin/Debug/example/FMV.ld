@@ -1,0 +1,32 @@
+# LD FORMAT copy Form LDMICRO#
+HARDWARE
+ArUnitControl 32IO
+IO LIST
+Ynew at Y00
+END
+PROGRAM
+RUNG
+	OSR
+	PARALLEL
+		MOVE Vdata 0
+		MOVE Vnew 0
+	END
+END
+RUNG
+	TPC Tnew 50 10
+	OSR
+	COIL Rnew 0 0 0 0
+END
+RUNG
+	CONTACTS Rnew 0 0 0
+	PARALLEL
+		ADD Vdata Vdata 2
+		MOVE Vnew Vdata
+		MOD Vnew Vdata 1
+	END
+END
+RUNG
+	EQU Vnew Vdata
+	EQU Vnew 1
+	COIL Ynew 0 0 0 0
+END

@@ -1,0 +1,302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{1396D508-330E-45BB-938D-7DE71D0E49D9}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MICROPLC</RootNamespace>
+    <AssemblyName>LADUINOCONTROL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <ApplicationIcon>..\ldmicro.ico</ApplicationIcon>
+    <NoWin32Manifest>True</NoWin32Manifest>
+    <SignAssembly>False</SignAssembly>
+    <DelaySign>False</DelaySign>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <NoStdLib>False</NoStdLib>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <IntermediateOutputPath>obj\$(Configuration)\</IntermediateOutputPath>
+    <WarningLevel>4</WarningLevel>
+    <RunCodeAnalysis>False</RunCodeAnalysis>
+    <SourceAnalysisOverrideSettingsFile>C:\Users\it\AppData\Roaming\ICSharpCode\SharpDevelop5\Settings.SourceAnalysis</SourceAnalysisOverrideSettingsFile>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <StartupObject>MICROPLC.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <BaseAddress>4194304</BaseAddress>
+    <RegisterForComInterop>False</RegisterForComInterop>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <FileAlignment>4096</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <BaseIntermediateOutputPath>obj\</BaseIntermediateOutputPath>
+    <StartAction>Project</StartAction>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <BaseAddress>4194304</BaseAddress>
+    <PlatformTarget>x86</PlatformTarget>
+    <RegisterForComInterop>False</RegisterForComInterop>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <FileAlignment>4096</FileAlignment>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.Targets" />
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutForm.Designer.cs">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AccurateTimer.cs" />
+    <Compile Include="Arduino_MapIO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arduino_MapIO.Designer.cs">
+      <DependentUpon>Arduino_MapIO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="arduino_unoMapIO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arduino_unoMapIO.Designer.cs">
+      <DependentUpon>arduino_unoMapIO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AsyncOperation.cs" />
+    <Compile Include="DrawingTags.cs" />
+    <Compile Include="Input_Analog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Input_Analog.Designer.cs">
+      <DependentUpon>Input_Analog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ladder.cs" />
+    <Compile Include="Loader_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loader_Form.Designer.cs">
+      <DependentUpon>Loader_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapIOPorts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MapIOPorts.Designer.cs">
+      <DependentUpon>MapIOPorts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Option_Config.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Option_Config.Designer.cs">
+      <DependentUpon>Option_Config.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProcessCaller.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="PropertiesElement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PropertiesElement.Designer.cs">
+      <DependentUpon>PropertiesElement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ElementTag.cs" />
+    <Compile Include="ProgressForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties_Comment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties_Comment.Designer.cs">
+      <DependentUpon>Properties_Comment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties_Counter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties_Counter.Designer.cs">
+      <DependentUpon>Properties_Counter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties_FCP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties_FCP.Designer.cs">
+      <DependentUpon>Properties_FCP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties_Shift_Reg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties_Shift_Reg.Designer.cs">
+      <DependentUpon>Properties_Shift_Reg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties_Shift_Variable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties_Shift_Variable.Designer.cs">
+      <DependentUpon>Properties_Shift_Variable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties_Variable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties_Variable.Designer.cs">
+      <DependentUpon>Properties_Variable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties_Timer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties_Timer.Designer.cs">
+      <DependentUpon>Properties_Timer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resource\en.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>en.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Resource\th.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>th.resx</DependentUpon>
+    </Compile>
+    <Compile Include="setting_Theme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setting_Theme.Designer.cs">
+      <DependentUpon>setting_Theme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Set_stratus_from.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Set_stratus_from.Designer.cs">
+      <DependentUpon>Set_stratus_from.cs</DependentUpon>
+    </Compile>
+    <Compile Include="translator_google.cs" />
+    <EmbeddedResource Include="AboutForm.resx">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arduino_MapIO.resx">
+      <DependentUpon>Arduino_MapIO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arduino_unoMapIO.resx">
+      <DependentUpon>arduino_unoMapIO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Input_Analog.resx">
+      <DependentUpon>Input_Analog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loader_Form.resx">
+      <DependentUpon>Loader_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MapIOPorts.resx">
+      <DependentUpon>MapIOPorts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Option_Config.resx">
+      <DependentUpon>Option_Config.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PropertiesElement.resx">
+      <DependentUpon>PropertiesElement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProgressForm.resx">
+      <DependentUpon>ProgressForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties_Comment.resx">
+      <DependentUpon>Properties_Comment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties_Counter.resx">
+      <DependentUpon>Properties_Counter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties_FCP.resx">
+      <DependentUpon>Properties_FCP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties_Shift_Reg.resx">
+      <DependentUpon>Properties_Shift_Reg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties_Shift_Variable.resx">
+      <DependentUpon>Properties_Shift_Variable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties_Variable.resx">
+      <DependentUpon>Properties_Variable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties_Timer.resx">
+      <DependentUpon>Properties_Timer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource\en.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>en.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Resource\th.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>th.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setting_Theme.resx">
+      <DependentUpon>setting_Theme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Set_stratus_from.resx">
+      <DependentUpon>Set_stratus_from.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hw.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arduino-48.png" />
+  </ItemGroup>
+</Project>

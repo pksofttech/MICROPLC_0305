@@ -1,0 +1,237 @@
+# LD FORMAT copy Form LDMICRO#
+HARDWARE
+Arduino UNO R3
+IO LIST
+X_btn_on at A5
+X_btn_start at A4
+X_water_ok at A3
+Y_LED_S at D7
+Y_LED_W at D6
+Y_MOTER_CCW at D3
+Y_MOTER_CW at D2
+Y_WATER_DN at D5
+Y_WATER_IN at D4
+END
+PROGRAM
+RUNG
+	CONTACTS X_btn_on 0 0 0
+	TON T01 500000
+	CTC C_mode 3
+END
+RUNG
+	EQU C_mode 0
+	COIL R_off 0 0 0 0
+END
+RUNG
+	EQU C_mode 1
+	COIL R_wash_mode 0 0 0 0
+END
+RUNG
+	EQU C_mode 2
+	COIL R_spin_mode 0 0 0 0
+END
+RUNG
+	EQU C_mode 3
+	PARALLEL
+		COIL R_DN_MODE 0 0 0 0
+		SERIES
+			TPC T30 100 100
+			COIL R_led_dn 0 0 0 0
+		END
+	END
+END
+RUNG
+	COMMENT LED
+END
+RUNG
+	PARALLEL
+		SERIES
+			CONTACTS R_wash_mode 0 0 0
+			CONTACTS R_led_wash_r 1 0 0
+		END
+		CONTACTS R_led_dn 0 0 0
+	END
+	COIL Y_LED_W 0 0 0 0
+END
+RUNG
+	PARALLEL
+		SERIES
+			CONTACTS R_spin_mode 0 0 0
+			CONTACTS R_led_spin 1 0 0
+		END
+		CONTACTS R_led_dn 0 0 0
+	END
+	COIL Y_LED_S 0 0 0 0
+END
+RUNG
+	COMMENT WASH_MODE
+END
+RUNG
+	CONTACTS R_off 0 0 0
+	PARALLEL
+		COIL R_wash_run 0 0 1 0
+		COIL R_wash_start 0 0 1 0
+		COIL R_wash_dn 0 0 1 0
+	END
+END
+RUNG
+	CONTACTS R_wash_mode 0 0 0
+	CONTACTS X_btn_start 0 0 0
+	TON T02 500000
+	COIL R_wash_run 0 1 0 0
+END
+RUNG
+	CONTACTS R_wash_run 0 0 0
+	TPC T03 200 200
+	COIL R_led_wash_r 0 0 0 0
+END
+RUNG
+	CONTACTS R_wash_run 0 0 0
+	CONTACTS R_wash_start 1 0 0
+	CONTACTS R_wash_dn 1 0 0
+	COIL R_water_in 0 0 0 0
+END
+RUNG
+	CONTACTS R_wash_run 0 0 0
+	PARALLEL
+		CONTACTS X_water_ok 0 0 0
+		SERIES
+			CONTACTS R_water_in 0 0 0
+			CONTACTS X_btn_start 0 0 0
+			TON T04 2000000
+		END
+	END
+	COIL R_wash_start 0 1 0 0
+END
+RUNG
+	CONTACTS R_wash_start 0 0 0
+	TPC T05 5000 5000
+	COIL R_moter_ro 0 0 0 0
+END
+RUNG
+	CONTACTS R_wash_start 0 0 0
+	PARALLEL
+		SERIES
+			CONTACTS R_moter_ro 0 0 0
+			TON T_moter_cwd 1000000
+			COIL R_moter_cw 0 0 0 0
+		END
+		SERIES
+			CONTACTS R_moter_ro 1 0 0
+			TON T_moter_ccwd 1000000
+			COIL R_moter_ccw 0 0 0 0
+		END
+	END
+END
+RUNG
+	CONTACTS R_wash_start 0 0 0
+	PARALLEL
+		SERIES
+			TON T_end_moter_w 60000000
+			TON T_end_m01 60000000
+			TON T_end_m02 60000000
+			TON T_end_m03 60000000
+			TON T_end_m04 60000000
+		END
+		SERIES
+			CONTACTS R_wash_mode 0 0 0
+			CONTACTS X_btn_start 0 0 0
+			TON T_20 2000000
+		END
+	END
+	PARALLEL
+		COIL R_wash_start 0 0 1 0
+		COIL R_wash_dn 0 1 0 0
+	END
+END
+RUNG
+	CONTACTS R_wash_dn 0 0 0
+	TON T_wash_dn 60000000
+	TON T_wash_dn01 60000000
+	PARALLEL
+		COIL R_wash_dn 0 0 1 0
+		COIL R_wash_run 0 0 1 0
+	END
+END
+RUNG
+	COMMENT SPIN MODE
+END
+RUNG
+	CONTACTS R_off 0 0 0
+	PARALLEL
+		COIL R_spin_run 0 0 1 0
+		COIL R_spin_start 0 0 1 0
+		COIL R_wash_dn 0 0 1 0
+	END
+END
+RUNG
+	CONTACTS R_spin_mode 0 0 0
+	CONTACTS X_btn_start 0 0 0
+	TON T_btn_spin 1000000
+	COIL R_spin_run 0 1 0 0
+END
+RUNG
+	CONTACTS R_spin_run 0 0 0
+	PARALLEL
+		COIL R_wash_dn 0 1 0 0
+		SERIES
+			TPC T_led_spin 100 100
+			COIL R_led_spin 0 0 0 0
+		END
+	END
+END
+RUNG
+	CONTACTS R_spin_run 0 0 0
+	TON T_d_spin_run 6000000
+	COIL R_spin_start 0 1 0 0
+END
+RUNG
+	CONTACTS R_spin_start 0 0 0
+	TPC T_spin_speed 3000 1000
+	COIL R_spin_moter 0 0 0 0
+END
+RUNG
+	CONTACTS R_spin_start 0 0 0
+	PARALLEL
+		SERIES
+			TON T_end_s01 60000000
+			TON Tend02 60000000
+			TON Tend03 60000000
+		END
+		SERIES
+			CONTACTS R_spin_mode 0 0 0
+			CONTACTS X_btn_start 0 0 0
+			TON T11 1000000
+		END
+	END
+	PARALLEL
+		COIL R_spin_start 0 0 1 0
+		COIL R_wash_dn 0 0 1 0
+		COIL R_spin_run 0 0 1 0
+	END
+END
+RUNG
+	COMMENT Y_OUTPUT
+END
+RUNG
+	PARALLEL
+		CONTACTS R_moter_cw 0 0 0
+		CONTACTS R_spin_moter 0 0 0
+	END
+	COIL Y_MOTER_CW 0 0 0 0
+END
+RUNG
+	CONTACTS R_moter_ccw 0 0 0
+	COIL Y_MOTER_CCW 0 0 0 0
+END
+RUNG
+	CONTACTS R_water_in 0 0 0
+	COIL Y_WATER_IN 0 0 0 0
+END
+RUNG
+	PARALLEL
+		CONTACTS R_wash_dn 0 0 0
+		CONTACTS R_DN_MODE 0 0 0
+	END
+	COIL Y_WATER_DN 0 0 0 0
+END
